@@ -1,0 +1,173 @@
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\bin\Debug\Posttest4.exe.config
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\bin\Debug\Posttest4.exe
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\bin\Debug\Posttest4.pdb
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\bin\Debug\Posttest4.xml
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\bin\Debug\mysql.data.dll
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form1.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form2.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Resources.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.Up2Date
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.exe
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.xml
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.pdb
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form3.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form4.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form5.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\Praktikum\Posttest\Posttest4\Posttest4\obj\Debug\Posttest4.Form6.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form1.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form2.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form3.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form5.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form6.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Resources.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.exe
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.xml
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.pdb
+C:\Users\fx506\Downloads\Posttest4\Posttest4\bin\Debug\Posttest4.exe.config
+C:\Users\fx506\Downloads\Posttest4\Posttest4\bin\Debug\Posttest4.exe
+C:\Users\fx506\Downloads\Posttest4\Posttest4\bin\Debug\Posttest4.pdb
+C:\Users\fx506\Downloads\Posttest4\Posttest4\bin\Debug\Posttest4.xml
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.Up2Date
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form7.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form8.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form9.resources
+C:\Users\fx506\Downloads\Posttest4\Posttest4\obj\Debug\Posttest4.Form10.resources
+C:\Users\Toby\Downloads\Posttest4\bin\Debug\Posttest4.exe.config
+C:\Users\Toby\Downloads\Posttest4\bin\Debug\Posttest4.exe
+C:\Users\Toby\Downloads\Posttest4\bin\Debug\Posttest4.pdb
+C:\Users\Toby\Downloads\Posttest4\bin\Debug\Posttest4.xml
+C:\Users\Toby\Downloads\Posttest4\bin\Debug\mysql.data.dll
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form1.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form10.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form2.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form3.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form5.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form6.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form7.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form8.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form9.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Resources.resources
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.vbproj.Up2Date
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.exe
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.xml
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.pdb
+C:\Users\Toby\Downloads\Posttest4\obj\Debug\Posttest4.Form11.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\bin\Debug\Posttest4.exe.config
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\bin\Debug\Posttest4.exe
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\bin\Debug\Posttest4.pdb
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\bin\Debug\Posttest4.xml
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form1.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form10.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form11.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form2.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form3.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form5.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form6.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form7.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form8.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Form9.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.Resources.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.vbproj.Up2Date
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.exe
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.xml
+C:\Users\fx506\OneDrive\Documents\Desktop\Posttest4\PA PEMVIS\obj\Debug\Posttest4.pdb
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.TambahDataRoti.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Form10.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Checkout.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.DisplayDataRoti.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.UpdateDataRoti.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Login.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.TambahDataRasa.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Form7.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Register.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.DisplayStore.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.Resources.resources
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.exe
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.xml
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.pdb
+C:\Users\fx506\Downloads\PA PEMVIS\bin\Debug\Posttest4.exe.config
+C:\Users\fx506\Downloads\PA PEMVIS\bin\Debug\Posttest4.exe
+C:\Users\fx506\Downloads\PA PEMVIS\bin\Debug\Posttest4.pdb
+C:\Users\fx506\Downloads\PA PEMVIS\bin\Debug\Posttest4.xml
+C:\Users\fx506\Downloads\PA PEMVIS\obj\Debug\Posttest4.vbproj.Up2Date
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\bin\Debug\Posttest4.exe.config
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\bin\Debug\Posttest4.exe
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\bin\Debug\Posttest4.pdb
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\bin\Debug\Posttest4.xml
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.TambahDataRoti.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Form10.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Checkout.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.DisplayDataRoti.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.UpdateDataRoti.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Login.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.TambahDataRasa.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Form7.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Register.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.DisplayStore.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.Resources.resources
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.vbproj.Up2Date
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.exe
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.xml
+C:\Users\fx506\OneDrive\Documents\Desktop\PA PEMVIS\obj\Debug\Posttest4.pdb
+C:\test\PA PEMVIS\bin\Debug\Posttest4.exe.config
+C:\test\PA PEMVIS\obj\Debug\Posttest4.exe
+C:\test\PA PEMVIS\obj\Debug\Posttest4.xml
+C:\test\PA PEMVIS\obj\Debug\Posttest4.pdb
+C:\test\PA PEMVIS\bin\Debug\Posttest4.exe
+C:\test\PA PEMVIS\bin\Debug\Posttest4.pdb
+C:\test\PA PEMVIS\bin\Debug\Posttest4.xml
+C:\test\PA PEMVIS\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\test\PA PEMVIS\obj\Debug\Posttest4.TambahDataRoti.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Form10.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Checkout.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.DisplayDataRoti.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.UpdateDataRoti.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Login.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.TambahDataRasa.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Form7.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Register.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.DisplayStore.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.Resources.resources
+C:\test\PA PEMVIS\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\test\PA PEMVIS\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\test\PA PEMVIS\obj\Debug\Posttest4.vbproj.Up2Date
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\bin\Debug\Posttest4.exe.config
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\bin\Debug\Posttest4.exe
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\bin\Debug\Posttest4.pdb
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\bin\Debug\Posttest4.xml
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\bin\Debug\mysql.data.dll
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.TambahDataRoti.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.Form10.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.Checkout.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.DisplayDataRoti.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.UpdateDataRoti.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.Login.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.TambahDataRasa.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.Register.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.DisplayStore.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.Resources.resources
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.vbproj.Up2Date
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.exe
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.xml
+E:\Document Perkuliahan\KULIAH\Semester_4\PemVis\PA\PA PEMVIS\obj\Debug\Posttest4.pdb
