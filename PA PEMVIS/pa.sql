@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 15 Bulan Mei 2024 pada 16.41
--- Versi server: 10.4.28-MariaDB
--- Versi PHP: 8.2.4
+-- Generation Time: May 17, 2024 at 08:45 PM
+-- Server version: 10.4.32-MariaDB
+-- PHP Version: 8.2.12
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `akun`
+-- Table structure for table `akun`
 --
 
 CREATE TABLE `akun` (
@@ -34,18 +34,17 @@ CREATE TABLE `akun` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data untuk tabel `akun`
+-- Dumping data for table `akun`
 --
 
 INSERT INTO `akun` (`id`, `username`, `password`) VALUES
 (1, 'qwe', 'qwe'),
-(2, 'Agus', '123'),
-(3, 'Nabil', '032');
+(2, 'asd', 'asd');
 
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `cart`
+-- Table structure for table `cart`
 --
 
 CREATE TABLE `cart` (
@@ -59,10 +58,17 @@ CREATE TABLE `cart` (
   `total_harga` int(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Dumping data for table `cart`
+--
+
+INSERT INTO `cart` (`id_cart`, `id_akun`, `jenis_roti`, `nama_roti`, `jmlRoti`, `harga_roti`, `expired`, `total_harga`) VALUES
+(3, 1, 'Roti Manis', 'Roti Muffin', 2, 20000, '2024-06-08', 40000);
+
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `dbrasa`
+-- Table structure for table `dbrasa`
 --
 
 CREATE TABLE `dbrasa` (
@@ -71,18 +77,17 @@ CREATE TABLE `dbrasa` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data untuk tabel `dbrasa`
+-- Dumping data for table `dbrasa`
 --
 
 INSERT INTO `dbrasa` (`idrasa`, `rasa`) VALUES
-('1', 'Roti Daging'),
-('2', 'Roti Tawar'),
-('4', 'Roti Asin');
+('1', 'Roti Tawar'),
+('2', 'Roti Manis');
 
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `dbroti`
+-- Table structure for table `dbroti`
 --
 
 CREATE TABLE `dbroti` (
@@ -97,29 +102,17 @@ CREATE TABLE `dbroti` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data untuk tabel `dbroti`
+-- Dumping data for table `dbroti`
 --
 
 INSERT INTO `dbroti` (`id_roti`, `nama_roti`, `harga_roti`, `stok_roti`, `jenis_roti`, `tekstur_roti`, `expired`, `gambar`) VALUES
-(1, 'Roti Hehe', 12000, 18, 'Roti Tawar', 'Lembut', '2024-06-01', 'Roti Hehe.jpg'),
-(2, 'Roti Cokelat', 5000, 22, 'Roti Tawar', 'Lembut', '2024-06-08', 'Roti Cokelat.jpg'),
-(3, 'RotSong', 6000, 50, 'Roti Tawar', 'Kering', '2024-05-29', 'RotSong.jpg'),
-(4, 'Roti A', 6000, 44, 'Roti Daging', 'Renyah', '2024-05-24', 'Roti A.jpg'),
-(5, 'Roti B', 4000, 70, 'Roti Asin', 'Kering', '2024-06-01', 'Roti B.jpg'),
-(6, 'Roti C', 12412, 5, 'Roti Daging', 'Chewy', '2024-05-12', 'Roti C.jpg'),
-(7, 'awnfja', 12415, 20, 'Roti Tawar', 'Renyah', '2024-06-08', 'awnfja.jpg'),
-(8, 'qrwf', 42112, 10, 'Roti Daging', 'Chewy', '2024-06-01', 'qrwf.jpg'),
-(9, 'QWRTGSV', 1256, 20, 'Roti Asin', 'Lembut', '2024-05-23', 'QWRTGSV.jpg'),
-(10, 'zxczv', 7564, 10, 'Roti Tawar', 'Lembut', '2024-05-12', 'zxczv.jpg'),
-(11, 'Roti Hehe', 12000, 18, 'Roti Tawar', 'Lembut', '2024-06-01', 'Roti Hehe.jpg'),
-(12, 'qrwf', 42112, 10, 'Roti Daging', 'Chewy', '2024-06-01', 'qrwf.jpg'),
-(13, 'RotSong', 6000, 50, 'Roti Tawar', 'Kering', '2024-05-29', 'RotSong.jpg'),
-(14, 'Roti C', 12412, 5, 'Roti Daging', 'Chewy', '2024-05-12', 'Roti C.jpg');
+(1, 'Roti Sobek', 15000, 100, 'Roti Tawar', 'Lembut', '2024-06-08', 'Roti Sobek.jpg'),
+(2, 'Roti Muffin', 20000, 95, 'Roti Manis', 'Lembut', '2024-06-08', 'Roti Muffin.jpg');
 
 -- --------------------------------------------------------
 
 --
--- Struktur dari tabel `transaksi`
+-- Table structure for table `transaksi`
 --
 
 CREATE TABLE `transaksi` (
@@ -134,92 +127,67 @@ CREATE TABLE `transaksi` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data untuk tabel `transaksi`
+-- Dumping data for table `transaksi`
 --
 
 INSERT INTO `transaksi` (`id_transaksi`, `id_akun`, `nama_pembeli`, `tanggal_transaksi`, `nama_roti`, `jumlah`, `harga_satuan`, `total_harga`) VALUES
-(3, 2, 'Agus', '2024-05-15 20:16:41', 'Roti Cokelat', 2, 5000, 10000),
-(4, 2, 'Agus', '2024-05-15 20:16:41', 'Roti B', 5, 4000, 20000);
-
--- --------------------------------------------------------
-
---
--- Struktur dari tabel `transaksi_detail`
---
-
-CREATE TABLE `transaksi_detail` (
-  `id_transaksi` int(11) NOT NULL,
-  `nama_roti` text NOT NULL,
-  `jumlah` int(11) NOT NULL,
-  `harga_satuan` int(11) NOT NULL,
-  `total_harga` int(11) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data untuk tabel `transaksi_detail`
---
-
-INSERT INTO `transaksi_detail` (`id_transaksi`, `nama_roti`, `jumlah`, `harga_satuan`, `total_harga`) VALUES
-(1, 'Roti Hehe', 2, 12000, 24000),
-(2, 'Roti Cokelat', 2, 5000, 10000),
-(2, 'Roti B', 5, 4000, 20000),
-(2, 'Roti A', 6, 6000, 36000);
+(1, 2, 'asd', '2024-05-18 01:51:56', 'Roti Muffin', 5, 20000, 100000);
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indeks untuk tabel `akun`
+-- Indexes for table `akun`
 --
 ALTER TABLE `akun`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indeks untuk tabel `cart`
+-- Indexes for table `cart`
 --
 ALTER TABLE `cart`
   ADD PRIMARY KEY (`id_cart`);
 
 --
--- Indeks untuk tabel `dbrasa`
+-- Indexes for table `dbrasa`
 --
 ALTER TABLE `dbrasa`
   ADD PRIMARY KEY (`idrasa`(11));
 
 --
--- Indeks untuk tabel `dbroti`
+-- Indexes for table `dbroti`
 --
 ALTER TABLE `dbroti`
   ADD PRIMARY KEY (`id_roti`);
 
 --
--- Indeks untuk tabel `transaksi`
+-- Indexes for table `transaksi`
 --
 ALTER TABLE `transaksi`
   ADD PRIMARY KEY (`id_transaksi`);
 
 --
--- AUTO_INCREMENT untuk tabel yang dibuang
+-- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT untuk tabel `akun`
+-- AUTO_INCREMENT for table `akun`
 --
 ALTER TABLE `akun`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
--- AUTO_INCREMENT untuk tabel `cart`
+-- AUTO_INCREMENT for table `cart`
 --
 ALTER TABLE `cart`
-  MODIFY `id_cart` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
+  MODIFY `id_cart` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
--- AUTO_INCREMENT untuk tabel `transaksi`
+-- AUTO_INCREMENT for table `transaksi`
 --
 ALTER TABLE `transaksi`
-  MODIFY `id_transaksi` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id_transaksi` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
